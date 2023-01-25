@@ -15,6 +15,8 @@ for _ in range(T):
     else:
         print(floor * 100 + (num+1))
 
+        
+
 
 # sol2
 # for _ in range(T):
