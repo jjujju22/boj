@@ -8,3 +8,4 @@ for i in range(L):
     res += (ord(word[i])-96) * (31**i) % M
     res %= M
 print(res)
+
